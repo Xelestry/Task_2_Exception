@@ -1,0 +1,9 @@
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_2\bin\Debug\netstandard2.0\Task_2_Exception_2.deps.json
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_2\bin\Debug\netstandard2.0\Task_2_Exception_2.dll
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_2\bin\Debug\netstandard2.0\Task_2_Exception_2.pdb
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_2\obj\Debug\netstandard2.0\Task_2_Exception_2.csprojAssemblyReference.cache
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_2\obj\Debug\netstandard2.0\Task_2_Exception_2.AssemblyInfoInputs.cache
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_2\obj\Debug\netstandard2.0\Task_2_Exception_2.AssemblyInfo.cs
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_2\obj\Debug\netstandard2.0\Task_2_Exception_2.csproj.CoreCompileInputs.cache
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_2\obj\Debug\netstandard2.0\Task_2_Exception_2.dll
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_2\obj\Debug\netstandard2.0\Task_2_Exception_2.pdb

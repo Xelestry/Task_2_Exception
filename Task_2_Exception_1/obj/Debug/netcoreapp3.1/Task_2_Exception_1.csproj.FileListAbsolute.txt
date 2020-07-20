@@ -1,0 +1,16 @@
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_1\bin\Debug\netcoreapp3.1\Task_2_Exception_1.exe
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_1\bin\Debug\netcoreapp3.1\Task_2_Exception_1.deps.json
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_1\bin\Debug\netcoreapp3.1\Task_2_Exception_1.runtimeconfig.json
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_1\bin\Debug\netcoreapp3.1\Task_2_Exception_1.runtimeconfig.dev.json
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_1\bin\Debug\netcoreapp3.1\Task_2_Exception_1.dll
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_1\bin\Debug\netcoreapp3.1\Task_2_Exception_1.pdb
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_1\obj\Debug\netcoreapp3.1\Task_2_Exception_1.csprojAssemblyReference.cache
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_1\obj\Debug\netcoreapp3.1\Task_2_Exception_1.AssemblyInfoInputs.cache
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_1\obj\Debug\netcoreapp3.1\Task_2_Exception_1.AssemblyInfo.cs
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_1\obj\Debug\netcoreapp3.1\Task_2_Exception_1.csproj.CoreCompileInputs.cache
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_1\obj\Debug\netcoreapp3.1\Task_2_Exception_1.dll
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_1\obj\Debug\netcoreapp3.1\Task_2_Exception_1.pdb
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_1\obj\Debug\netcoreapp3.1\Task_2_Exception_1.genruntimeconfig.cache
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_1\bin\Debug\netcoreapp3.1\Task_2_Exception_2.dll
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_1\bin\Debug\netcoreapp3.1\Task_2_Exception_2.pdb
+C:\Users\Kirill_Mityushchenko\source\repos\Task_2_Exception_1\Task_2_Exception_1\obj\Debug\netcoreapp3.1\Task_2_Exception_1.csproj.CopyComplete
